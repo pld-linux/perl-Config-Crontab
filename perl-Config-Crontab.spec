@@ -7,13 +7,13 @@
 Summary:	Config::Crontab - Read/Write Vixie compatible crontab(5) files
 Summary(pl.UTF-8):	Config::Crontab - odczyt/zapis plików kompatybilnych z crontab(5) dla Vixie-crona
 Name:		perl-Config-Crontab
-Version:	1.33
+Version:	1.45
 Release:	1
 # below one is stated in readme, not perl itself
 License:	Perl Artistic License
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Config/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	d53d47477a7d044b0cf6d54e21aa0215
+Source0:	https://www.cpan.org/modules/by-module/Config/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	3d60a0c024d0ba486adeb05e799db855
 URL:		http://search.cpan.org/dist/Config-Crontab/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
